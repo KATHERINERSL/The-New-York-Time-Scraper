@@ -20,11 +20,11 @@ In this app, it will "scrape" a news article headlines.  A user can "scrape" to 
 ## Screenshots
 
 
-![Scrape Page](https://#)
+![Scrape Page](https://github.com/KATHERINERSL/The-News-Scraper/blob/master/public/img/scrape%20page.PNG)
 
-![Terminal Logs](https://#)
+![Terminal Logs](https://github.com/KATHERINERSL/The-News-Scraper/blob/master/public/img/terminal%20log.PNG)
 
-![ReadArticle/CommentPage](https://#)
+![ReadArticle/CommentPage](https://github.com/KATHERINERSL/The-News-Scraper/blob/master/public/img/read%20article.PNG)
 
 [Heroku Link](https://#)
 
